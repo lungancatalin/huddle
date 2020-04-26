@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/huddle_demo/static/css/main.4a1c0e02.chunk.css",
-    "main.js": "/huddle_demo/static/js/main.23a1a42e.chunk.js",
-    "main.js.map": "/huddle_demo/static/js/main.23a1a42e.chunk.js.map",
-    "runtime-main.js": "/huddle_demo/static/js/runtime-main.73206fe9.js",
-    "runtime-main.js.map": "/huddle_demo/static/js/runtime-main.73206fe9.js.map",
-    "static/js/2.a384006f.chunk.js": "/huddle_demo/static/js/2.a384006f.chunk.js",
-    "static/js/2.a384006f.chunk.js.map": "/huddle_demo/static/js/2.a384006f.chunk.js.map",
-    "index.html": "/huddle_demo/index.html",
-    "precache-manifest.969aa1f42d91ee8a4ce255184d8cc84e.js": "/huddle_demo/precache-manifest.969aa1f42d91ee8a4ce255184d8cc84e.js",
-    "service-worker.js": "/huddle_demo/service-worker.js",
-    "static/css/main.4a1c0e02.chunk.css.map": "/huddle_demo/static/css/main.4a1c0e02.chunk.css.map",
-    "static/js/2.a384006f.chunk.js.LICENSE.txt": "/huddle_demo/static/js/2.a384006f.chunk.js.LICENSE.txt",
-    "static/media/illustration-flowing-conversation.svg": "/huddle_demo/static/media/illustration-flowing-conversation.6641e825.svg",
-    "static/media/illustration-grow-together.svg": "/huddle_demo/static/media/illustration-grow-together.bb27da81.svg",
-    "static/media/illustration-mockups.svg": "/huddle_demo/static/media/illustration-mockups.88090ace.svg",
-    "static/media/illustration-your-users.svg": "/huddle_demo/static/media/illustration-your-users.8a5af995.svg",
-    "static/media/logo-white.svg": "/huddle_demo/static/media/logo-white.d4d1854c.svg",
-    "static/media/logo.svg": "/huddle_demo/static/media/logo.3cb86730.svg"
+    "main.css": "/huddle/static/css/main.4a1c0e02.chunk.css",
+    "main.js": "/huddle/static/js/main.d6952613.chunk.js",
+    "main.js.map": "/huddle/static/js/main.d6952613.chunk.js.map",
+    "runtime-main.js": "/huddle/static/js/runtime-main.8bf4ac3a.js",
+    "runtime-main.js.map": "/huddle/static/js/runtime-main.8bf4ac3a.js.map",
+    "static/js/2.a384006f.chunk.js": "/huddle/static/js/2.a384006f.chunk.js",
+    "static/js/2.a384006f.chunk.js.map": "/huddle/static/js/2.a384006f.chunk.js.map",
+    "index.html": "/huddle/index.html",
+    "precache-manifest.78ceb43d20d7739ca7a307ab9e2faaaa.js": "/huddle/precache-manifest.78ceb43d20d7739ca7a307ab9e2faaaa.js",
+    "service-worker.js": "/huddle/service-worker.js",
+    "static/css/main.4a1c0e02.chunk.css.map": "/huddle/static/css/main.4a1c0e02.chunk.css.map",
+    "static/js/2.a384006f.chunk.js.LICENSE.txt": "/huddle/static/js/2.a384006f.chunk.js.LICENSE.txt",
+    "static/media/illustration-flowing-conversation.svg": "/huddle/static/media/illustration-flowing-conversation.6641e825.svg",
+    "static/media/illustration-grow-together.svg": "/huddle/static/media/illustration-grow-together.bb27da81.svg",
+    "static/media/illustration-mockups.svg": "/huddle/static/media/illustration-mockups.88090ace.svg",
+    "static/media/illustration-your-users.svg": "/huddle/static/media/illustration-your-users.8a5af995.svg",
+    "static/media/logo-white.svg": "/huddle/static/media/logo-white.d4d1854c.svg",
+    "static/media/logo.svg": "/huddle/static/media/logo.3cb86730.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.73206fe9.js",
+    "static/js/runtime-main.8bf4ac3a.js",
     "static/js/2.a384006f.chunk.js",
     "static/css/main.4a1c0e02.chunk.css",
-    "static/js/main.23a1a42e.chunk.js"
+    "static/js/main.d6952613.chunk.js"
   ]
 }
